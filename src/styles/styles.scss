@@ -1,0 +1,124 @@
+.firstpage-container
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    background-color: bisque;
+
+.firstpage-content
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    flex-direction: column;
+    width: 30rem;
+    height: 30rem;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+    border-radius: 0.5rem;
+    background-color: rgb(136, 241, 136);
+
+    input
+    {
+        width: 10rem;
+        padding: 0.2rem 5rem 0.2rem 0.1rem;
+
+    }
+}
+
+}
+
+
+
+
+
+
+.secondpage-container
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    background-color: bisque;
+
+
+.secondpage-content
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    flex-direction: column;
+    width: 30rem;
+    height: 30rem;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+    border-radius: 0.5rem;
+    background-color: rgb(136, 241, 136);
+
+
+    input
+    {
+        width: 10rem;
+        padding: 0.2rem 5rem 0.2rem 0.1rem;
+
+    }
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+.thirdpage-container
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    background-color: bisque;
+
+
+.thirdpage-content
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    flex-direction: column;
+    width: 30rem;
+    height: 30rem;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+    border-radius: 0.5rem;
+    background-color: rgb(136, 241, 136);
+
+
+    input
+    {
+        width: 10rem;
+        padding: 0.2rem 5rem 0.2rem 0.1rem;
+
+    }
+}
+
+}
+
+.closebtn
+{
+    position: absolute;
+    top: 21%;
+    left: 62%;
+    font-size: 2rem;
+}
+
+
+
